@@ -1,0 +1,13 @@
+-----Terminal-----
+	1.MySQL
+		+Turn on and off MySQL:
+			-sudo /etc/init.d/mysql start/stop
+	1.Ruby
+		+check ruby version
+			-ruby -v
+-----Git-----
+	Updating...
+-----Ruby-----
+	Updating
+-----Rails-----
+	1
